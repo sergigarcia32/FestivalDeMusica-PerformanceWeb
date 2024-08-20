@@ -26,5 +26,5 @@ Este proyecto es un sitio web interactivo para un festival de música, diseñado
     ```
 2. **Navega al directorio del proyecto**:
     ```bash
-    cd BreadcrumbsFestivalDeMusica-PerformanceWeb
+    cd FestivalDeMusica-PerformanceWeb
     ```

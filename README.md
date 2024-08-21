@@ -32,3 +32,7 @@ https://drive.google.com/drive/folders/16QL-OWmCIo0iNgNe6YESU6AmlYpBYVbX?usp=dri
     ```bash
     cd FestivalDeMusica-PerformanceWeb
     ```
+3. **Ejecuta el watch**:
+    ```bash
+    npm run dev
+    ```

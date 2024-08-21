@@ -19,7 +19,7 @@ Este proyecto es un sitio web interactivo para un festival de música, diseñado
 - **Gulp**: Automatización de tareas y optimización del rendimiento web.
 
 ## Crea una carpeta img
-Crea una carpeta img dentro de la raíz del proyecto y pon las imagenes de la siguiente url:
+Crea una carpeta img dentro de la raíz del proyecto y pon las imágenes de la siguiente url:
 https://drive.google.com/drive/folders/16QL-OWmCIo0iNgNe6YESU6AmlYpBYVbX?usp=drive_link
 
 ## 📈 Cómo Ejecutar el Proyecto
